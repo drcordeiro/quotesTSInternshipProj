@@ -1,3 +1,5 @@
+Random Quote Generator built as an exercise to practice changing a JavaScript project to TypeScript. The initial JS project is quotesJSInternshipProj.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
